@@ -1,7 +1,7 @@
 # BetterDisplay – Display Management Tool
 
 <div align="center">  
-  <img src="https://static.macupdate.com/products/63642/l/phpvryww2-logo.png?v=1692382725" width="250" alt="BetterDisplay Logo"/>  
+  <img src="https://www.screencastsonline.com/site/show/icons-new/180/SCOM1386-180.png" width="250" alt="BetterDisplay Logo"/>  
 </div>  
 
 <br>  
